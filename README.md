@@ -1,3 +1,3 @@
 # redemption
 
-To run the game launch final project / redemption.py
+To run the game launch finalvers/ redemption.py
